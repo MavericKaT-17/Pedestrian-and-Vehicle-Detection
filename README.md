@@ -1,2 +1,4 @@
-# GSCI-image-recognition
-part-time job in HKUST GSCI dept
+# Pedestrian and Vehicle detection
+
+Using Paddle as reference
+
