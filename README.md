@@ -7,7 +7,7 @@ This project is a 6-month side project leveraging PaddleDetection to detect pede
 
 ## Installation
 
-Since this project builds upon PaddleDetection, please follow the original [PaddleDetection setup instructions]([https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.8](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.8/docs/tutorials/INSTALL_cn.md)). My code extends PaddleDetection to generate the specified outputs.
+Since this project builds upon PaddleDetection, please follow the original [PaddleDetection setup instructions]([https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.8/docs/tutorials/INSTALL_cn.md]). My code extends PaddleDetection to generate the specified outputs.
 
 For reference of the working version:
 1. Python (3.12.8)
